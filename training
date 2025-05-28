@@ -1,1 +1,43 @@
+data goveranance is creating the rule book and assigning the responsibilties  to keep data  clean ,safe ,trustworthy
+it is all about monitoring and providing structured approach that reads data as a asset
+dg helps us to organise protect and guide how the dtaa should be used in an company
+it is all about protecting securing and organising the dtata
+
+why imp?
+--
+different people?
+data owners-department heads who are responsible for dta
+data steward-they can implement maintain the overall development of data
+all the people collectively work here to create the standards and policies for governing the data as wellm as implementing
+-----
+how to implenet
+standard definitions
+who will be fixing this
+who can inly see/edit patients data
+track where data comes from 
+-------------------
+how data givernanace is achieved through collibra
+data organisation--it creates the catalogue(where we can register our differnet sources) with metadata and its definitions
+roles and responsibilities it gives the clear ownership
+glossary and standard--defines the definitions clearly
+data policies and roles-- it definies how data is managed and used
+data lineage-- explains how data moves from source to catalogue
+workflows--it automates governance processes and approvals
+------------------------------
+organistaion model
+community??
+represents different group of people who own certain domains
+subcommunity?? smaller group inside my large community
+domain??collection of related data assets.t holds the specific type of assets.it helps the data to find manage dta easily
+domaintypes??
+glossary--definitions and businees terms are stored
+business asset domain--mange the business related concepts like what are the glossaryterms what are policies what are the kpis what are the roles it helps the user to understand the meaning of data and how it is used
+codelist--used to manage the reference data--maintain the data consistent and makesure it follows certain codes and values of dat
+ data asset domain-- for structured data assets like databases schemas etc
+mapping domain--used to store mappings
+technology asset domian--it is used to register and describe the data suystem or the platforms used in our organistaion
+givernanace asset domain-- it includes roles and responsibilities policies .main purpose is who is resposible for what
+
+
+
 
